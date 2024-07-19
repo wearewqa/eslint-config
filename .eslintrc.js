@@ -114,6 +114,7 @@ module.exports = {
     "react-hooks/exhaustive-deps": "warn",
     "@typescript-eslint/comma-dangle": ["off"],
     "react/jsx-props-no-spreading": "off",
+    "import/no-named-as-default": "off",
     "import/order": [
       1,
       {
