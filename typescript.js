@@ -18,7 +18,6 @@ module.exports = {
     project: "./tsconfig.json",
     tsconfigRootDir: "./",
   },
-  plugins: ["@typescript-eslint"],
   rules: {
     "no-shadow": [
       "error",
