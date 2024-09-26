@@ -57,7 +57,6 @@ module.exports = {
     "no-useless-return": "error",
     "prefer-promise-reject-errors": "error",
     radix: "error",
-    "no-undefined": "error",
     semi: "off",
     "@typescript-eslint/semi": ["error"],
     "array-bracket-newline": [
