@@ -2,7 +2,11 @@
 require("@rushstack/eslint-patch/modern-module-resolution");
 
 module.exports = {
-  extends: ["prettier", "plugin:import/recommended"],
+  extends: [
+    "prettier",
+    "plugin:import/recommended",
+    "plugin:jsx-a11y/recommended",
+  ],
   parser: "@babel/eslint-parser",
   parserOptions: {
     requireConfigFile: false,
