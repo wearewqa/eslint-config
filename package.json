@@ -1,6 +1,6 @@
 {
   "name": "@wearewqa/eslint-config",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "ESLint and Prettier Config",
   "keywords": [
     "javascript",
