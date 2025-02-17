@@ -13,7 +13,10 @@
     "prettier"
   ],
   "main": "index.js",
-  "repository": "git@github.com:wearewqa/eslint-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wearewqa/eslint-config.git"
+  },
   "author": "Matt Burns <matt.burns@wearewqa.com>",
   "license": "MIT",
   "peerDependencies": {
