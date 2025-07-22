@@ -20,7 +20,7 @@
   "author": "Matt Burns <matt.burns@wearewqa.com>",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^8.0.0",
+    "eslint": "^8.0.0 || ^9.0.0",
     "prettier": ">=3.0.0",
     "typescript": "^4.8.4 || ^5.0.0 || ^5.5.0",
     "@typescript-eslint/eslint-plugin": "^6.10.0"
